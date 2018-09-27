@@ -1,6 +1,6 @@
 # Modelo de Documentação de Software
 
-Esse é um modelo de documentação de software, desenvolvido por mim, com o intuítio de ajudar os demais desenvolvedores e equipes de desenvolvimento que não querem seguir um padrão de documentação!
+Esse é um modelo de documentação de software, desenvolvido por mim, com o intuitio de ajudar os demais desenvolvedores e equipes de desenvolvimento que não querem seguir um padrão de documentação!
 
 ## Regras do Documento
 
@@ -28,7 +28,7 @@ A documentação está nas regras da 'ABNT', sendo assim alguns padrões para co
 
 ## License
 
-> Uso livre, fiz com o intuíto de ajudar os demais colegas da área!
+> Uso livre, fiz com o intuito de ajudar os demais colegas da área!
 
 ## Créditos
 
