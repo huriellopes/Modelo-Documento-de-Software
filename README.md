@@ -1,6 +1,6 @@
 # Modelo de Documentação de Software
 
-Esse é um modelo de documentação de software, desenvolvido por mim, com o intuitio de ajudar os demais desenvolvedores e equipes de desenvolvimento que não querem seguir um padrão de documentação!
+Esse é um modelo de documentação de software, desenvolvido por mim, com a finalidade de ajudar os demais desenvolvedores e equipes de desenvolvimento que não querem seguir um padrão de documentação!
 
 ## Regras do Documento
 
